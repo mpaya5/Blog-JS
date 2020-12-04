@@ -79,3 +79,5 @@ For fairly comprehensive guides on the languages introduced in this problem, che
 - [HTML](https://www.w3schools.com/html)
 - [CSS](https://www.w3schools.com/css)
 - [JavaScript](https://www.w3schools.com/js)
+## Additional info
+This project is the problem 8 of the [Harvard](https://www.harvard.edu) [`CS50` course, Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-to-computer-science).
